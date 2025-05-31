@@ -1,0 +1,17 @@
+{
+  "name": "FinTech Coin",
+  "symbol": "FTC",
+  "address": "0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/Edivaldo504/fintech-coin-website/main/logo.png",
+  "website": "https://edivaldo504.github.io/fintech-coin-website",
+  "description": "A FinTech Coin (FTC) é uma criptomoeda ERC-20 projetada para impulsionar serviços financeiros descentralizados com rapidez, segurança e acessibilidade. Integrada ao Ethereum, a FTC conecta o mundo financeiro tradicional ao digital.",
+  "tags": [
+    "finance",
+    "defi",
+    "token",
+    "ethereum",
+    "ftc"
+  ]
+}

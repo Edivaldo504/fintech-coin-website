@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" version="1.1">
-  <image width="32" height="32" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAD2ElEQVR4nO2XbWhVZRzAf895zrnn3omie7Ohra3hhqGSsA9FjgyJVtKWS3qZ1ZAWoqK43hhIBWVEJEVRsRACyxoYTmtQaazVB5ljbm3aZMvJPji2EObu5rb7cl6ePhzvvbu72/XTWB/2h4fDeV7+z+/5v53nCFYVKxZRtMXcfAlgCWAJ4H8BoKf0KAWzS5OIjc2jRQBCJN5d12sAUiaPpQMQAnTDQJC8wHFdUAop5ZxKXKWwbRtcBdEIGatWkpudheM6DI/cwJkOgd+8A4DjkrM6m+bGBlYsX45u6HGMEyd/ZGj4X+oP7QHAsm2UUhi6jhCC8+1d1NTWYQYCvPnGXmqqn6Ygfw2O43Cpt58PPm6g6cwvYBgpAIkYUArD0Nl4Xwkl6woRKJRKNG+KAqUoLipgfXERPkNHKReUiwZ89ekR3j1cR25OFi2t52lr76J080ZOffsFu2uegUgkvQs89yuuXhtk05YKrKjl+UUACI43nkZKSUfLKdaXFPHYzpe5NjCIsmyefOpxaqqr+GdgkMrn9tB3pR+EoKKynGd3PEH7xR5w3DQWmAEhpSQnO5PcHK/puo7rOFhRi0jUilskallYEQvbsnm+ajsA7x39kr6eK+D3g8/kp+bf2PXSAaamw5RtK0sJ5JQssC2bewvyuXrxXLxvxwv7+fXnFjB9iBkRLWLW8ZsUFtwNQFdPL/h9tycAUmPFykw+eb8eKSUB0+Tc2VYwfXMACBCaIBQO09F12fMvgrHxCdBSS0Y8W5TCvZ12yzICXjbMkHAozNj4LfLX5jF682aSrmQABbouuT40zCMVL6JiMSAl+AzPP7MXCAFRi0u9/TxQej87K8vp+PMCSA2UQvgMTF3neONptj/6MJ1tnbAsI64h+VgiYVpd10HqoOtJhUTMtUBqNHzdyHQoRN2+3bxWf4A1easpKszn8w/fpu2PJvLX5nFrairFkklvQggyAgH8saIxRwFTQMBvIqVMxINh8FdHN68cPEw4FObokXoGelrp7/6dfbW7uD40wrqiewiF06WhJpicnOKjz44RHJ+I+zRZBEopjn1zkrtysxkLjidO5Df5/rsmei73UVNdRenmDQSDE5xpPovSNMq3lbH/1XfiwZfQOPNSqhSEI57J5ymdgDfHdSHgT63zlgW2A5pg69aH2PJgKZs2lLD30FuMjgbBSA67WVkgPKV3knRwhgFSkpWVyesHa7FtmxM/NDM6ciMp+GKyMJ9jIZgIjtPZ/TeTU9Nc6OieF1os2H+BUp6bNM17zvMlXbgLSax+wLybLyzATJA0suhXsiWAJYD/ACQ7aJ7sOEwqAAAAAElFTkSuQmCC"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32" height="32" viewBox="0 0 32 32"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <rect width="32" height="32" rx="4" fill="#0F172A"/>
+  <path d="M10 8H22V10H14V14H20V16H14V24H10V8Z" fill="#38BDF8"/>
+  <circle cx="24" cy="10" r="1.5" fill="#38BDF8"/>
+  <circle cx="24" cy="16" r="1.5" fill="#38BDF8"/>
+  <circle cx="24" cy="22" r="1.5" fill="#38BDF8"/>
+  <line x1="20" y1="10" x2="22.5" y2="10" stroke="#38BDF8" stroke-width="1"/>
+  <line x1="20" y1="16" x2="22.5" y2="16" stroke="#38BDF8" stroke-width="1"/>
+  <line x1="20" y1="22" x2="22.5" y2="22" stroke="#38BDF8" stroke-width="1"/>
 </svg>

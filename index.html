@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -32,6 +31,7 @@
     .container {
       max-width: 900px;
       padding: 20px;
+      text-align: center;
     }
 
     .hero {
@@ -64,50 +64,8 @@
 
     section {
       margin-top: 40px;
+      text-align: left;
     }
-
-<section>
-  <h2>Transparência sobre a Alocação</h2>
-  <p>A alocação do suprimento total de 130.000.000 FTC foi cuidadosamente planejada para garantir o desenvolvimento sustentável do projeto. Uma parte significativa dos tokens para a equipe será bloqueada com um cronograma de vesting para incentivar o sucesso a longo prazo.</p>
-</section>
-
-<section>
-  <h2>Roteiro (Roadmap)</h2>
-  <div style="display: inline-block; text-align: left;">
-    <h4>Q1 2025</h4>
-    <ul>
-      <li>Criação e verificação do contrato inteligente</li>
-      <li>Lançamento inicial na Uniswap</li>
-      <li>Publicação do site oficial via GitHub Pages</li>
-    </ul>
-    <h4>Q2 2025</h4>
-    <ul>
-      <li>Solicitação de listagem na CoinMarketCap e CoinGecko</li>
-      <li>Parcerias com comunidades Web3</li>
-      <li>Airdrop de ativação para usuários early adopters</li>
-    </ul>
-    <h4>Q3 2025</h4>
-    <ul>
-      <li>Lançamento da carteira FTC</li>
-      <li>Expansão para BNB Chain e outras redes via bridge</li>
-      <li>Desenvolvimento do sistema de staking</li>
-    </ul>
-    <h4>Q4 2025</h4>
-    <ul>
-      <li>Integração com gateways de pagamento reais</li>
-      <li>Lançamento de marketplace de serviços financeiros</li>
-      <li>Anúncio do programa de governança (DAO)</li>
-    </ul>
-  </div>
-</section>
-
-<section>
-  <h2>Equipe</h2>
-  <h3>Edivaldo Braga</h3>
-  <p class="text-muted">Fundador & Desenvolvedor Líder</p>
-  <p>Especialista em blockchain, com foco em smart contracts, Web3 e soluções financeiras descentralizadas. Lidera o desenvolvimento técnico da FinTech Coin com a visão de construir um ecossistema transparente e acessível.</p>
-  <a href="https://www.linkedin.com/in/edivaldo-cardoso-a012bb379/" target="_blank" class="button">Perfil no LinkedIn</a>
-</section>
 
     footer {
       background: #1e293b;
@@ -130,20 +88,29 @@
     a:hover {
       text-decoration: underline;
     }
+
+    .text-muted {
+      color: #94a3b8;
+    }
+
+    .roadmap-list {
+        display: inline-block;
+        text-align: left;
+    }
   </style>
 </head>
 <body>
 
   <header>
-   <img src="https://fintechcoin.com.br/logo.svg" alt="Logotipo da FinTech Coin">
-</header>
+    <img src="https://fintechcoin.com.br/logo.svg" alt="Logotipo da FinTech Coin">
+  </header>
 
   <div class="container">
     <div class="hero">
       <h1>Transformando o futuro das finanças</h1>
       <p>A FTC é uma criptomoeda inovadora, feita para pagamentos rápidos, seguros e acessíveis. Ideal para o mundo real e o digital.</p>
       <a href="https://app.uniswap.org/swap?outputCurrency=0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe&chain=ethereum" class="button" target="_blank">Comprar FTC</a>
-      <a href="FTC_Whitepaper.pdf" class="button" target="_blank">Ver Whitepaper</a>
+      <a href="https://fintechcoin.com.br/FTC_Whitepaper.pdf" class="button" target="_blank">Ver Whitepaper</a>
     </div>
 
     <section>
@@ -159,53 +126,49 @@
         <li>🔸 30 milhões para liquidez, marketing e listagens</li>
       </ul>
     </section>
-
+    
     <section>
-      <h2>🚀 Roadmap</h2>
-      <ul>
-        <li>✅ Q1 2025 – Lançamento e liquidez inicial</li>
-        <li>🔜 Q2 2025 – Listagens em CoinMarketCap e CoinGecko</li>
-        <li>🔜 Q3 2025 – Parcerias com carteiras e exchanges</li>
-      </ul>
+      <h2>Transparência sobre a Alocação</h2>
+      <p>A alocação do suprimento total de 130.000.000 FTC foi cuidadosamente planejada para garantir o desenvolvimento sustentável do projeto. Uma parte significativa dos tokens para a equipe será bloqueada com um cronograma de vesting para incentivar o sucesso a longo prazo.</p>
     </section>
 
-<section>
-      <h2>Equipe</h2>
-      <h3>Edivaldo Braga</h3>
-      <p class="text-muted">Fundador & Desenvolvedor Líder</p>
-      <p>Especialista em blockchain, com foco em smart contracts, Web3 e soluções financeiras descentralizadas. Lidera o desenvolvimento técnico da FinTech Coin com a visão de construir um ecossistema transparente e acessível.</p>
-      <a href="https://www.linkedin.com/in/edivaldo-cardoso-a012bb379/" target="_blank" class="button">Perfil no LinkedIn</a>
-    </section>
+    <section>
+      <h2>Roteiro (Roadmap)</h2>
+      <div class="roadmap-list">
+        <h4>Q1 2025</h4>
+        <ul>
+          <li>Criação e verificação do contrato inteligente</li>
+          <li>Lançamento inicial na Uniswap</li>
+          <li>Publicação do site oficial via GitHub Pages</li>
+        </ul>
+        <h4>Q2 2025</h4>
+        <ul>
+          <li>Solicitação de listagem na CoinMarketCap e CoinGecko</li>
+          <li>Parcerias com comunidades Web3</li>
+          <li>Airdrop de ativação para usuários early adopters</li>
+        </ul>
+        <h4>Q3 2025</h4>
+        <ul>
+          <li>Lançamento da carteira FTC</li>
+          <li>Expansão para BNB Chain e outras redes via bridge</li>
+          <li>Desenvolvimento do sistema de staking</li>
+        </ul>
+        <h4>Q4 2025</h4>
+        <ul>
+          <li>Integração com gateways de pagamento reais</li>
+          <li>Lançamento de marketplace de serviços financeiros</li>
+          <li>Anúncio do programa de governança (DAO)</li>
+        </ul>
+      </div>
+    </section>
 
-<section>
-      <h2>Roteiro (Roadmap)</h2>
-      <div style="display: inline-block; text-align: left;">
-        <h4>Q1 2025</h4>
-        <ul>
-          <li>Criação e verificação do contrato inteligente</li>
-          <li>Lançamento inicial na Uniswap</li>
-          <li>Publicação do site oficial via GitHub Pages</li>
-        </ul>
-        <h4>Q2 2025</h4>
-        <ul>
-          <li>Solicitação de listagem na CoinMarketCap e CoinGecko</li>
-          <li>Parcerias com comunidades Web3</li>
-          <li>Airdrop de ativação para usuários early adopters</li>
-        </ul>
-        <h4>Q3 2025</h4>
-        <ul>
-          <li>Lançamento da carteira FTC</li>
-          <li>Expansão para BNB Chain e outras redes via bridge</li>
-          <li>Desenvolvimento do sistema de staking</li>
-        </ul>
-        <h4>Q4 2025</h4>
-        <ul>
-          <li>Integração com gateways de pagamento reais</li>
-          <li>Lançamento de marketplace de serviços financeiros</li>
-          <li>Anúncio do programa de governança (DAO)</li>
-        </ul>
-      </div>
-    </section>
+    <section>
+      <h2>Equipe</h2>
+      <h3>Edivaldo Braga</h3>
+      <p class="text-muted">Fundador & Desenvolvedor Líder</p>
+      <p>Especialista em blockchain, com foco em smart contracts, Web3 e soluções financeiras descentralizadas. Lidera o desenvolvimento técnico da FinTech Coin com a visão de construir um ecossistema transparente e acessível.</p>
+      <a href="https://www.linkedin.com/in/edivaldo-cardoso" target="_blank" class="button">Perfil no LinkedIn</a>
+    </section>
 
     <section>
       <h2>🔗 Links Úteis</h2>
@@ -222,12 +185,11 @@
     © 2025 FinTech Coin – Todos os direitos reservados.
   </footer>
 
-
-<section style="text-align: center; margin-top: 20px;">
-  <h3>Contato Oficial</h3>
-  <p>Email principal: <strong>contato@fintechcoin.com.br</strong></p>
-  <p>Email de verificação: <strong>contato@fintechcoin.com.br</strong></p>
-</section>
+  <section style="text-align: center; margin-top: 20px;">
+    <h3>Contato Oficial</h3>
+    <p>Email principal: <strong>contato@fintechcoin.com.br</strong></p>
+    <p>Email de verificação: <strong>contato@fintechcoin.com.br</strong></p>
+  </section>
 
 </body>
 </html>

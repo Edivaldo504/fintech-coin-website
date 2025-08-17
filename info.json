@@ -1,17 +1,24 @@
 {
-  "name": "FinTech Coin",
-  "symbol": "FTC",
-  "type": "ERC20",
-  "decimals": 18,
-  "chainId": 1,
-  "address": "0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe",
-  "logo": "https://fintechcoin.com.br/logo.svg",
-  "website": "https://fintechcoin.com.br/",
-  "linkedin": "https://www.linkedin.com/in/edivaldo-cardoso/",
-  "description": "A FinTech Coin (FTC) é um token voltado para revolucionar o mercado de pagamentos digitais e descentralizados, com foco em acessibilidade e inovação financeira.",
-  "whitepaper": "https://fintechcoin.com.br/FTC_Whitepaper.pdf",
-  "links": {
-    "telegram": "https://t.me/fintechcoinftc",
-    "twitter": "https://x.com/FinTechCoin_FTC"
-  }
+  "name": "FinTech Coin",
+  "symbol": "FTC",
+  "type": "ERC-20",
+  "decimals": 18,
+  "chain": "Ethereum",
+  "contract_address": "0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe",
+  "total_supply": 300000000,
+  "max_supply": 300000000,
+  "website": "https://fintechcoin.com.br",
+  "whitepaper": "https://fintechcoin.com.br/FTC_Whitepaper.pdf",
+  "explorers": [
+    "https://etherscan.io/token/0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe"
+  ],
+  "social": {
+    "x": "https://x.com/FinTechCoin_FTC",
+    "telegram": "https://t.me/fintechcoinftc",
+    "tiktok": "https://www.tiktok.com/@fintech.coin",
+    "instagram": "https://www.instagram.com/fintech_coin/",
+    "github": "https://github.com/Edivaldo504/fintech-coin-website",
+    "linkedin": "https://www.linkedin.com/in/edivaldo-cardoso/"
+  },
+  "disclaimer": "Este material não constitui recomendação financeira. Faça sua própria pesquisa."
 }

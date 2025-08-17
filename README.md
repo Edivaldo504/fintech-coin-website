@@ -38,7 +38,7 @@ A **FinTech Coin (FTC)** é uma criptomoeda ERC-20 desenvolvida para impulsionar
 - 📄 [Whitepaper](https://fintechcoin.com.br/FTC_Whitepaper.pdf)
 - 💰 [Contrato no Etherscan](https://etherscan.io/token/0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe)
 - 🐦 [Twitter Oficial](https://x.com/FinTechCoin_FTC)
-- 💬 [Telegram Oficial](https://t.me/fintechcoin)
+- 💬 [Telegram Oficial](https://t.me/fintechcoinftc)
 
 ---
 

@@ -1,20 +1,57 @@
 {
-  "project": {
-    "name": "FinTech Coin",
-    "symbol": "FTC",
-    "type": "ERC-20",
-    "address": "0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe",
-    "chainId": 1,
-    "decimals": 18,
-    "logo": "https://fintechcoin.com.br/logo.svg",
-    "website": "https://fintechcoin.com.br/",
-    "linkedin": "https://www.linkedin.com/in/edivaldo-cardoso/",
-    "whitepaper": "https://fintechcoin.com.br/FTC_Whitepaper.pdf",
-    "description": "A FinTech Coin (FTC) é um token ERC-20 que busca transformar o setor financeiro através de soluções descentralizadas, escaláveis e acessíveis.",
-    "social": {
-      "twitter": "https://x.com/FinTechCoin_FTC",
-      "telegram": "https://t.me/fintechcoinftc",
-      "github": "https://github.com/Edivaldo504/fintech-coin-website"
-    }
-  }
+  "project": "FinTech Coin (FTC)",
+  "short_description": "Projeto de fintech com foco em transparência, segurança e construção de comunidade.",
+  "long_description": "FinTech Coin (FTC) é um token ERC-20 lançado na rede Ethereum com ênfase em transparência e responsabilidade pública. O projeto prioriza documentação aberta, comunicação recorrente e processos auditáveis. Este documento alinha a oferta total e máxima para 300.000.000 FTC, conforme contrato on-chain. Não há promessas de retorno; o foco está em utilidade e execução do roadmap.",
+  "token": {
+    "standard": "ERC-20",
+    "decimals": 18,
+    "chain": "Ethereum",
+    "contract_address": "0x5Cef65860BBdd0bc6ec70F695E68a8e44c3CAdAe"
+  },
+  "tokenomics": {
+    "total_supply": 300000000,
+    "max_supply": 300000000,
+    "allocation": {
+      "owner_operations": 100000000,
+      "ecosystem_strategic": 200000000
+    }
+  },
+  "links": [
+    {
+      "type": "website",
+      "url": "https://fintechcoin.com.br"
+    },
+    {
+      "type": "whitepaper",
+      "url": "https://fintechcoin.com.br/FTC_Whitepaper.pdf"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/Edivaldo504/fintech-coin-website"
+    },
+    {
+      "type": "x",
+      "url": "https://x.com/FinTechCoin_FTC"
+    },
+    {
+      "type": "telegram",
+      "url": "https://t.me/fintechcoinftc"
+    },
+    {
+      "type": "tiktok",
+      "url": "https://www.tiktok.com/@fintech.coin"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/fintech_coin/"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/edivaldo-cardoso/"
+    }
+  ],
+  "compliance": {
+    "disclaimer": "Este material não constitui recomendação financeira.",
+    "last_updated": "2025-08-17"
+  }
 }

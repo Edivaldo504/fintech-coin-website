@@ -7,7 +7,7 @@ A **FinTech Coin (FTC)** é uma criptomoeda ERC-20 desenvolvida para impulsionar
 - ✅ Token compatível com Ethereum (ERC-20)
 - 🔒 Liquidez travada na Uniswap V3 até **30/11/2025**
 - 📈 Preço inicial: R$0,10 por FTC
-- 📊 Max Supply: 130.000.000 FTC
+- 📊 Max Supply: 300.000.000 FTC
 - 💼 Utilidade: pagamentos rápidos, acessíveis e seguros
 
 ## 🧾 Informações Técnicas
